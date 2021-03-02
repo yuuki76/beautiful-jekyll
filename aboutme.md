@@ -44,3 +44,4 @@ gpg --fetch-keys https://github.com/yuuki76.gpg
 ### リンク
 
 [アニメ.art](https://%E3%82%A2%E3%83%8B%E3%83%A1.art)
+[裏kris.fail](https://darknet.kris.fail)
