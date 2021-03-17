@@ -107,6 +107,13 @@ h9SgAP9qVs1v0v1Rp23DpFncuaVqRnE6FqCSkTHNE1y+KeTyzgEA3kzMKilwHscJ
 5fWVeLVKdusB937+gENJaqD6FHKPxAg=
 =1etT
 -----END PGP SIGNATURE-----
+これはすでに古くなっており、更新されるまで参照するべきではありません。
+次回の更新はGPG2.3のリリース後に行われる予定です。
+23:56 2021/03/17
+
+
+
+
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
