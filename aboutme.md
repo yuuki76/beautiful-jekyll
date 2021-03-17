@@ -17,9 +17,10 @@ A-yuuki:某ガチで死ぬVRMMO小説の登場人物
 
 興味のあるもの (GitHubのプロフィールから抜粋)  
 ゲーム:GTA5,スマブラ,ポケモン,Portal,NieR,Minecraft,PSO2(最近やってない),MSFS  
-アニメ:SAO,とある,PSYCOPASS,このすば,コードギアス.Dr.Stone,キルミーベイベー,まちカドまぞく,まどマギ,,がっこうぐらし,シュタゲ,Fate  
+アニメ:SAO,とある,PSYCOPASS,このすば,コードギアス.Dr.Stone,キルミーベイベー,まちカドまぞく,まどマギ,がっこうぐらし,シュタゲ,Fate  
 アングラ寄り:淫夢,恒心,例のアレ,メーデー  
 その他:Tor,P2P,分散ネットワーク,OSS全般,Linux,PC系,数学,暗号  
+※古くなっているのでヘッダーのLISTより参照することを推奨
 
 ### PGP鍵
 
@@ -31,7 +32,7 @@ gpg --fetch-keys https://github.com/yuuki76.gpg
 
 ### Onionミラー
 
-当サイトではセルフホスティングのOnion(v3)によるミラーを用意しております [Onion Mirror(v3)](http://kris57xeegb7q5mxrigcmnnjryrdkecfsjolya5m7jf6gyj3ff24hlyd.onion/)
+~~当サイトではセルフホスティングのOnion(v3)によるミラーを用意しております [Onion Mirror(v3)](http://kris57xeegb7q5mxrigcmnnjryrdkecfsjolya5m7jf6gyj3ff24hlyd.onion/)~~PC不調によりOSの再インストールを実施したため利用できなくなりました。秘密鍵自体は暗号化しバックアップしていたので復活時にはアナウンスします
 
 ### トラッキングについて
 
