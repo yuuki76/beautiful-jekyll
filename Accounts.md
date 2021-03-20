@@ -60,8 +60,8 @@ GitLab:yuuki76
 
 ### SNS
 
-Twitter: ~~@8A4AK~~@8A4MB(2021/01/14復活)
-@kris35L,@P0IiticaI  
+Twitter:@8A4MB(2021/01/14復活)
+@kris35L  
 Instagram:非公開(直接連絡して、どうぞ)  
 @kris57@mstdn.jp  
 Twitch:yuuki14514  
@@ -77,8 +77,7 @@ note:kris57
 ### Misc
 
 Niconico:kris(ID:38510435)  
-ビリビリ:yuuki76  
-Yahoo:yukimorifumi  
+ビリビリ:yuuki76   
 Spotify:yuuki76  
 BTC:1qk4ZjySJDoET4REN1YwE5xTV1GBdRVEa  
 Ethereum:0xeCBC0a5B0A4483029debf81077cf4E5C1908D4E6   ,0xCD79fa8a3e2f4623a360684D7f5c53a802b9C062  Ripple:rJKzCruoMcBwQgyHQ4GTX32TpDztwsBAhC  
