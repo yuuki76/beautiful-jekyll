@@ -1,6 +1,6 @@
 # Account List
 
-Updated:2021/02/04  
+Updated:2021/03/20  
 
 <details>
   <summary>Mail Address</summary>
@@ -22,7 +22,7 @@ PGP(Minimal):E600 AA56 F906 0786 C825  8353 5F47 0CC0 C1DD A2DB
 
 ### Homepage
 
-[Onion v3 mirror](http://kris57xeegb7q5mxrigcmnnjryrdkecfsjolya5m7jf6gyj3ff24hlyd.onion/)  
+~~[Onion v3 mirror](http://kris57xeegb7q5mxrigcmnnjryrdkecfsjolya5m7jf6gyj3ff24hlyd.onion/)~~  
 [GitHub-Pages(Main)](https://kris.fail)  
 [Netlify(Currently NOT working)](https://yuuki76.netlify.app)  
 [~~ZeroNet~~](http://127.0.0.1:43110/16BY32M366k57cR5KRnCAKxXDX4PnHUVnP)  http://127.0.0.1:43110/1KzaASN8yqGqZCWuED93UB6pYyFLNVzfSX
