@@ -79,7 +79,7 @@ note:kris57
 Niconico:kris(ID:38510435)  
 ビリビリ:yuuki76   
 Spotify:yuuki76  
-BTC:1qk4ZjySJDoET4REN1YwE5xTV1GBdRVEa  
+BTC:1qk4ZjySJDoET4REN1YwE5xTV1GBdRVEa  ,Alt:bc1qhp5yxfhys888vr7qc4weq39yekm0q0jqlfruuz  
 Ethereum:0xeCBC0a5B0A4483029debf81077cf4E5C1908D4E6   ,0xCD79fa8a3e2f4623a360684D7f5c53a802b9C062  Ripple:rJKzCruoMcBwQgyHQ4GTX32TpDztwsBAhC  
 Zcash:t1MViRBLjo4Ti3sMDtSMwVFGsergNdr2Sqb  
 Monero:4B9ztHPP76J7dM6NhxL4ExfUdVRkyRgRC9rPN2mrXacWaY9PaT4u96GZiVPACFNnd7CgLyiypmA2TR8Zt8wLsRsETepGiU7  
