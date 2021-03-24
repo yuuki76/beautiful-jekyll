@@ -307,6 +307,8 @@
 - 淫らな青ちゃんは勉強ができない
 
 - SHIROBAKO<mark>おすすめ</mark>
+  
+  - 劇場版SHIROBAKO
 
 - ようこそ実力至上主義の教室へ
 
@@ -355,6 +357,10 @@
   - THE IDOLM＠STER CINDERELLA GIRLS
 
 - バッカーノ!
+
+- 異世界魔王と召喚少女の奴隷魔術
+
+- 空の境界<mark>おすすめ</mark>
 
 <!--### ~~駄作~~
 
