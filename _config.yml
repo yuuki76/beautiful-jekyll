@@ -16,12 +16,12 @@ author: Kris
 navbar-links:
   About Me: "aboutme"
   Author's home: "https://github.com/yuuki76/yuuki76.github.io/"
-  Accounts: "Accounts"
+  Accounts: "accounts"
   LIST:
-    - Anime Movie: "Anime,Movie"
-    - Literature: "Literature"
-    - Game: "Game"
-    - Awesome Soft,Service: "Softserv"
+    - Anime Movie: "anime_movie"
+    - Literature: "literature"
+    - Game: "game"
+    - Awesome Soft,Service: "softserv"
     - Onelinediary: "oneliner"
 
 # --- Logo --- #
