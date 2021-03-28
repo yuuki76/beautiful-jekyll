@@ -44,11 +44,23 @@
 
 - Caligula Overdose
 
+- Fate/stay night
+
+- Fate/hollow ataraxia
+
+- 月姫
+
 - Xenoblade(プレイ中)
 
 - アトリエシリーズ
   
   - ライザのアトリエ(プレイ中)
+
+- FF7R(プレイ中)
+
+- CONTROL(プレイ中)
+
+- Subnautica(プレイ中)
 
 ### ~~駄作~~
 
