@@ -16,7 +16,7 @@ author: Kris
 navbar-links:
   About Me: "aboutme"
   Author's home: "https://github.com/yuuki76/yuuki76.github.io/"
-  Accounts: "accounts"
+  accounts: "accounts"
   LIST:
     - Anime Movie: "anime_movie"
     - Literature: "literature"
