@@ -28,7 +28,7 @@ PGP(Minimal):E600 AA56 F906 0786 C825  8353 5F47 0CC0 C1DD A2DB
 **Litecoin**:ltc1qm974vdphxrazertyzglwmyg8ad5jwuh9w7vkgq
 **Dash**:XuxWuEUCJryvnVrL899BMysgP8mJXayS4D  
 **Stellar**:GDKC64EIYOOUXSHJ2GITOWOB43EYU2LWSJVHX2C5RIPOVTHJIU2EFI2E
-**Zcash**:t1MViRBLjo4Ti3sMDtSMwVFGsergNdr2Sqb  
+**Zcash**:t1MViRBLjo4Ti3sMDtSMwVFGsergNdr2Sqb,*zcSUBzfeVo1zsM7DX5Pv2nuPjcx8zy5U6PdKyRSx9m54xDmQWqzw5MJdyx7QifqcUNrkmBd3P6REqncbWUy3BkJ1ZsaWCso* (Deprecation)  
 **Monero**:4B9ztHPP76J7dM6NhxL4ExfUdVRkyRgRC9rPN2mrXacWaY9PaT4u96GZiVPACFNnd7CgLyiypmA2TR8Zt8wLsRsETepGiU7  
 **Loki**:L8eWtZP6tYLLHyLeBgBcUQdi57KyZESuUSn3EDZLZucaFqphXepLJj49oJmEatfqkcP5w4RGiZcLzh7yiVQSkGVv7GXc5oQ  
 **Cardano**:addr1q85ucdtfkmc9tnadtcdu6sryz5f82k80dfxt5aw87q998zk6u4e0kezxls24pcsk5le4cg9pr8d2mufkszn3gcw5p4msxqetwe,addr1q8599jlha4rrvv5xu0z8nwaw978g6kknrr7c85hqy0zwaenkpmvu72d2zpk5qrxdq8mvrgsjm42gvwc2tc6mhlndx3psp0jcg0  
