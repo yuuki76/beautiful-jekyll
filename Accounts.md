@@ -18,23 +18,7 @@ admin@アニメ.art<br>
 [Keybase:kris57](https://keybase.io/kris57)  
 
 PGP:3BCC C7CF D259 7E53 44DD  964A 729B 523D 11F3 A8D7  
-PGP(Minimal):E600 AA56 F906 0786 C825  8353 5F47 0CC0 C1DD A2DB  
-
-### Money
-
-**BTC**:bc1qhp5yxfhys888vr7qc4weq39yekm0q0jqlfruuz 1qk4ZjySJDoET4REN1YwE5xTV1GBdRVEa
-**Ethereum**:0xCD79fa8a3e2f4623a360684D7f5c53a802b9C062 0xeCBC0a5B0A4483029debf81077cf4E5C1908D4E6
-**Ripple**:rJKzCruoMcBwQgyHQ4GTX32TpDztwsBAhC  
-**Litecoin**:ltc1qm974vdphxrazertyzglwmyg8ad5jwuh9w7vkgq
-**Dash**:XuxWuEUCJryvnVrL899BMysgP8mJXayS4D  
-**Stellar**:GDKC64EIYOOUXSHJ2GITOWOB43EYU2LWSJVHX2C5RIPOVTHJIU2EFI2E
-**Zcash**:t1MViRBLjo4Ti3sMDtSMwVFGsergNdr2Sqb,*zcSUBzfeVo1zsM7DX5Pv2nuPjcx8zy5U6PdKyRSx9m54xDmQWqzw5MJdyx7QifqcUNrkmBd3P6REqncbWUy3BkJ1ZsaWCso* (Deprecation,非推奨)  
-**Monero**:4B9ztHPP76J7dM6NhxL4ExfUdVRkyRgRC9rPN2mrXacWaY9PaT4u96GZiVPACFNnd7CgLyiypmA2TR8Zt8wLsRsETepGiU7  
-**Loki**:L8eWtZP6tYLLHyLeBgBcUQdi57KyZESuUSn3EDZLZucaFqphXepLJj49oJmEatfqkcP5w4RGiZcLzh7yiVQSkGVv7GXc5oQ  
-**Cardano**:addr1q85ucdtfkmc9tnadtcdu6sryz5f82k80dfxt5aw87q998zk6u4e0kezxls24pcsk5le4cg9pr8d2mufkszn3gcw5p4msxqetwe,addr1q8599jlha4rrvv5xu0z8nwaw978g6kknrr7c85hqy0zwaenkpmvu72d2zpk5qrxdq8mvrgsjm42gvwc2tc6mhlndx3psp0jcg0  
-**KOTO**:k1F3NSENWfhSe47G1VVnATn6qyuUc5B1Pr2,koto1c24u5nw0fy0d3qme9g46m83ud7xkqxnjeqv9cmgheyq4etl239uenjup0apc37aa6mmmxwpu495
-暗号通貨を送っていただいた際にはご一報いただけるとありがたいです.  
-Amazon:[欲しい物リスト](https://amazon.jp/hz/wishlist/ls/3F5PGKBJUIAEG)
+PGP(Minimal):E600 AA56 F906 0786 C825  8353 5F47 0CC0 C1DD A2DB 
 
 ### Homepage
 
