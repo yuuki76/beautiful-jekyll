@@ -1,8 +1,9 @@
 User-agent: *
-Disallow:/Accounts/
-Disallow:/anime_movie/
-Disallow:/literature/
-Disallow:/game/
-Disallow:/softserv/
-Disallow:/oneliner/
-Disallow:/music/
+Disallow: /accounts/
+Disallow: /anime_movie/
+Disallow: /literature/
+Disallow: /game/
+Disallow: /softserv/
+Disallow: /oneliner/
+Disallow: /music/
+Disallow: /donations/
