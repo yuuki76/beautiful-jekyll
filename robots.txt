@@ -5,3 +5,4 @@ Disallow:/literature/
 Disallow:/game/
 Disallow:/softserv/
 Disallow:/oneliner/
+Disallow:/music/

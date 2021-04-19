@@ -24,7 +24,7 @@ navbar-links:
     - Game: "game"
     - Awesome Soft,Service: "softserv"
     - Onelinediary: "oneliner"
-
+    - Music: "music"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
