@@ -1,25 +1,31 @@
 # Account List
 
-Updated:2021/03/29  
+Updated:2021/04/19  
 
 <details>
  <summary>Mail Address</summary>
-PRIM:kris319@protonmail.com<br>
-yukimorifumi@gmail.com<br>
-yuuki76.op@gmail.com<br>
-yuuki76@protonmail.com<br>
-kris57@outlook.jp<br>
-yuuki76@cock.li<br>
-kris57@hitler.rocks<br>
-kris@kris.fail<br>
-admin@アニメ.art<br>
+<span id="obf"><script>document.getElementById("obf").innerHTML="<n uers=\"znvygb:xevf319@cebgbaznvy.pbz?fhowrpg=Xevf.snvy\" gnetrg=\"_oynax\"></n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});document.body.appendChild(eo);</script>
+<noscript><span style="unicode-bidi:bidi-override;direction:rtl;">moc.liamnotorp@913sirk</span></noscript></span><br>
+<span id="obf"><script>document.getElementById("obf").innerHTML="<n uers=\"znvygb:lhxvzbevshzv@tznvy.pbz?fhowrpg=Xevf.snvy\" gnetrg=\"_oynax\"></n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});document.body.appendChild(eo);</script>
+<noscript><span style="unicode-bidi:bidi-override;direction:rtl;">moc.liamg@imufiromikuy</span></noscript></span><br>
+<span id="obf"><script>document.getElementById("obf").innerHTML="<n uers=\"znvygb:lhhxv76.bc@tznvy.pbz?fhowrpg=Xevf.snvy\" gnetrg=\"_oynax\"></n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});document.body.appendChild(eo);</script>
+<noscript><span style="unicode-bidi:bidi-override;direction:rtl;">moc.liamg@po.67ikuuy</span></noscript></span><br>
+<span id="obf"><script>document.getElementById("obf").innerHTML="<n uers=\"znvygb:xevf57@bhgybbx.wc?fhowrpg=Xevf.snvy\" gnetrg=\"_oynax\"></n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});document.body.appendChild(eo);</script>
+<noscript><span style="unicode-bidi:bidi-override;direction:rtl;">pj.kooltuo@75sirk</span></noscript></span><br>
+<span id="obf"><script>document.getElementById("obf").innerHTML="<n uers=\"znvygb:lhhxv76@pbpx.yv?fhowrpg=Xevf.snvy\" gnetrg=\"_oynax\"></n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});document.body.appendChild(eo);</script>
+<noscript><span style="unicode-bidi:bidi-override;direction:rtl;">il.kcoc@67ikuuy</span></noscript></span><br>
+<span id="obf"><script>document.getElementById("obf").innerHTML="<n uers=\"znvygb:xevf57@uvgyre.ebpxf?fhowrpg=Xevf.snvy\" gnetrg=\"_oynax\"></n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});document.body.appendChild(eo);</script>
+<noscript><span style="unicode-bidi:bidi-override;direction:rtl;">skcor.reltih@75sirk</span></noscript></span><br>
+<span id="obf"><script>document.getElementById("obf").innerHTML="<n uers=\"znvygb:xevf@xevf.snvy?fhowrpg=Xevf.snvy\" gnetrg=\"_oynax\"></n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});document.body.appendChild(eo);</script>
+<noscript><span style="unicode-bidi:bidi-override;direction:rtl;">liaf.sirk@sirk</span></noscript></span><br>
 </details>
 
 [Keybase:kris57](https://keybase.io/kris57)  
 
 PGP:3BCC C7CF D259 7E53 44DD  964A 729B 523D 11F3 A8D7  
 PGP(Minimal):E600 AA56 F906 0786 C825  8353 5F47 0CC0 C1DD A2DB 
-
+PGP(X448):5422 68FE 2833 D36D BDE6  FD40 D6F5 0A38 7C6C 596C
+PGP(X448-Minimal):206B 26CE FA50 D578 4BDD  E6F3 E2EE 3DE5 3B67 E3AD
 ### Homepage
 
 ~~[Onion v3 mirror](http://kris57xeegb7q5mxrigcmnnjryrdkecfsjolya5m7jf6gyj3ff24hlyd.onion/)~~  
