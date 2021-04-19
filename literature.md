@@ -24,6 +24,10 @@
 
 - 真月譚月姫
 
+- MELTY BLOOD
+
+- Fate/stay night 
+
 - 魔女の旅々(4巻)
 
 - EX-ARM
