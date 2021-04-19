@@ -3,7 +3,7 @@
 Updated:2021/03/29  
 
 <details>
-  <summary>Mail Address</summary>
+ <summary>Mail Address</summary>
 PRIM:kris319@protonmail.com<br>
 yukimorifumi@gmail.com<br>
 yuuki76.op@gmail.com<br>
