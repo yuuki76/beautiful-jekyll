@@ -61,11 +61,3 @@
 - CONTROL(プレイ中)
 
 - Subnautica(プレイ中)
-
-### ~~駄作~~
-
-- ~~各種スマホソシャゲ~~
-
-- ~~PSO2(プレイ時間2000時間超え)~~
-
-- ~~SWORD ART ONLINE Alicization Lycoris~~
