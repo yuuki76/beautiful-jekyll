@@ -4,7 +4,10 @@ Updated:2021/04/19
 
 <details>
  <summary>Mail Address</summary>
-公開停止,PGPに書いてある奴でよくね❓
+<s>公開停止,PGPに書いてある奴でよくね❓</s><br>
+<a href="mailto://kris319@protonmail.com">kris319@protonmail.com</a><br>
+<a href="mailto://kris57@outlook.jp">kris57@outlook.jp</a>
+<p>このアドレスに送られてきたもの以外は無視する可能性が高いです,outlookに関してもたまにしか見ないので見落とす可能性があります</p>
 </details>
 
 [Keybase:kris57](https://keybase.io/kris57)  
@@ -13,6 +16,7 @@ PGP:3BCC C7CF D259 7E53 44DD  964A 729B 523D 11F3 A8D7
 PGP(Minimal):E600 AA56 F906 0786 C825  8353 5F47 0CC0 C1DD A2DB  
 PGP(X448):5422 68FE 2833 D36D BDE6  FD40 D6F5 0A38 7C6C 596C  
 PGP(X448-Minimal):206B 26CE FA50 D578 4BDD  E6F3 E2EE 3DE5 3B67 E3AD
+
 ### Homepage
 
 ~~[Onion v3 mirror](http://kris57xeegb7q5mxrigcmnnjryrdkecfsjolya5m7jf6gyj3ff24hlyd.onion/)~~  
