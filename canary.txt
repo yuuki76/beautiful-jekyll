@@ -5,15 +5,159 @@ I am the admin of kris.fail (Twitter:@8A4AB,Keybase:kris57).
 I am in control of my PGP key.
 I am in control of my other secret keys.
 I will update this canary within 14 days.
-Today is 2021-03-18.
+Today is 2021-04-26.
+My PGP Keys
+6E9A41E8DC92B517EEBA00F43DE7586AE63EF528
+3BCCC7CFD2597E5344DD964A729B523D11F3A8D7(Main)
+542268FE2833D36DBDE6FD40D6F50A387C6C596C
 
+My Cryptocurrency Address
+BTC
+bc1qhp5yxfhys888vr7qc4weq39yekm0q0jqlfruuz
+1qk4ZjySJDoET4REN1YwE5xTV1GBdRVEa
+ETH
+0xCD79fa8a3e2f4623a360684D7f5c53a802b9C062
+0xeCBC0a5B0A4483029debf81077cf4E5C1908D4E6
+Ripple
+rJKzCruoMcBwQgyHQ4GTX32TpDztwsBAhC
+Litecoin
+ltc1qm974vdphxrazertyzglwmyg8ad5jwuh9w7vkgq
+Dash
+XuxWuEUCJryvnVrL899BMysgP8mJXayS4D
+Stellar
+GDKC64EIYOOUXSHJ2GITOWOB43EYU2LWSJVHX2C5RIPOVTHJIU2EFI2E
+Zcash
+t1MViRBLjo4Ti3sMDtSMwVFGsergNdr2Sqb
+Monero
+4B9ztHPP76J7dM6NhxL4ExfUdVRkyRgRC9rPN2mrXacWaY9PaT4u96GZiVPACFNnd7CgLyiypmA2TR8Zt8wLsRsETepGiU7
+Loki
+L8eWtZP6tYLLHyLeBgBcUQdi57KyZESuUSn3EDZLZucaFqphXepLJj49oJmEatfqkcP5w4RGiZcLzh7yiVQSkGVv7GXc5oQ
+Cardano
+addr1q85ucdtfkmc9tnadtcdu6sryz5f82k80dfxt5aw87q998zk6u4e0kezxls24pcsk5le4cg9pr8d2mufkszn3gcw5p4msxqetwe
+
+My Mail Address(If you have sent us cryptocurrency, please let us know if you can.)
+
+kris319@protonmail.com
 Latest bitcoin block hash:
-00000000000000000009c782574d4ea4d358a64a767efb8da210f1609be9fbc4
+000000000000000000053683c73c7b622dd2c592c4609c3a64199c2ed728f54f
 -----BEGIN PGP SIGNATURE-----
 
-iLUEARMKAB0WIQQrpvzOyLcJ91H+2eyHZmQsvecBwgUCYFIabwAKCRCHZmQsvecB
-wlNqAgCRWtYq9tmP6wDBma48jA0f8GCq7LvIX/aTP8K1UxgMg7BqlxQkqqG70or1
-Su92AOXqMztA3iH5e78iE6ZygrT8Af0VdXrK7yDdhvV2dcEn5wOJuudsI+KrFDRP
-lJJbJAlSF/F17e6+4QUTz1TkEzuqLJu7IUb3Vi1KVvs0pfEVn4DF
-=Fu3G
+iLUEARMKAB0WIQQrpvzOyLcJ91H+2eyHZmQsvecBwgUCYIag8AAKCRCHZmQsvecB
+wrjFAf9Te+tzTtm/vh3RlZzGg3ZT6q2R84IA1asjQusxTgo5nGCFGYbpKQXEYyLI
+8p1NV250N6W9YohNpRpZkfvJgC2RAgCl1baEQJkX3DRq1C5IB+hsoTmx515hCz78
+kBlftQ64c9nAQ+vf0QKpBJvB2KvVqUBX6g22JjbQOqETC8T/cnFc
+=pavK
 -----END PGP SIGNATURE-----
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+I am the admin of kris.fail (Twitter:@8A4AB,Keybase:kris57).
+I am in control of my PGP key.
+I am in control of my other secret keys.
+I will update this canary within 14 days.
+Today is 2021-04-26.
+My PGP Keys
+6E9A41E8DC92B517EEBA00F43DE7586AE63EF528
+3BCCC7CFD2597E5344DD964A729B523D11F3A8D7(Main)
+542268FE2833D36DBDE6FD40D6F50A387C6C596C
+
+My Cryptocurrency Address
+BTC
+bc1qhp5yxfhys888vr7qc4weq39yekm0q0jqlfruuz
+1qk4ZjySJDoET4REN1YwE5xTV1GBdRVEa
+ETH
+0xCD79fa8a3e2f4623a360684D7f5c53a802b9C062
+0xeCBC0a5B0A4483029debf81077cf4E5C1908D4E6
+Ripple
+rJKzCruoMcBwQgyHQ4GTX32TpDztwsBAhC
+Litecoin
+ltc1qm974vdphxrazertyzglwmyg8ad5jwuh9w7vkgq
+Dash
+XuxWuEUCJryvnVrL899BMysgP8mJXayS4D
+Stellar
+GDKC64EIYOOUXSHJ2GITOWOB43EYU2LWSJVHX2C5RIPOVTHJIU2EFI2E
+Zcash
+t1MViRBLjo4Ti3sMDtSMwVFGsergNdr2Sqb
+Monero
+4B9ztHPP76J7dM6NhxL4ExfUdVRkyRgRC9rPN2mrXacWaY9PaT4u96GZiVPACFNnd7CgLyiypmA2TR8Zt8wLsRsETepGiU7
+Loki
+L8eWtZP6tYLLHyLeBgBcUQdi57KyZESuUSn3EDZLZucaFqphXepLJj49oJmEatfqkcP5w4RGiZcLzh7yiVQSkGVv7GXc5oQ
+Cardano
+addr1q85ucdtfkmc9tnadtcdu6sryz5f82k80dfxt5aw87q998zk6u4e0kezxls24pcsk5le4cg9pr8d2mufkszn3gcw5p4msxqetwe
+
+My Mail Address(If you have sent us cryptocurrency, please let us know if you can.)
+
+kris319@protonmail.com
+Latest bitcoin block hash:
+000000000000000000053683c73c7b622dd2c592c4609c3a64199c2ed728f54f
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEbppB6NyStRfuugD0PedYauY+9SgFAmCGoQoACgkQPedYauY+
+9SiyLw//dMfyMGyHBLn+BOF0YADOFxuYjJBvC5+4xXlEvCBZXuBhSIVVizRY2V2p
+peUkuuuoprs8Zhr425Knsm1NMqIcpNzr+BW+vBCwY87NhuaEg8qeOPqs6WSnc3CX
+bdPbMhShVMWbRpoHbBxeuEsD48JA77f8Vsav0+Ohi06lXGNwikk9JSruOtE5Swmo
+uLU7XbsNaP5SbZi9yvAWFvoJve2dHtrtc8kx+Qt53vGcSgzAGj+JlQVhvVoVDbWQ
+uedwDvg3JLi45sE0cs5cGeKaZsahJDZJ8FPT7khJy6WxCGvrqK2gZBMHP4ndUGIi
+ixCTOEfMKaf4lQdmDoiwmn8CYLNwCyH2mVreH7mS/Tm7ug4QC+9lonAtq4CZ2FiH
+QbjIxmWmouggUaUgcnawWbpCQqj99G8nDee0u6PsJr+se7SSKUpchPeIqOibtpXa
+fjsOUTLZjtrXWm1ZgqenRfW4ayLQe/JVZD3LkYlSVV4HuPARUcsM3baCHQKAH1lL
+ALSrLRhL1kvL75BmKPPLScGbSdJ7sJB4wLNo0gR+2xf14VIGAQ3u9a6aByR2Y+Oe
+FPoToSDtn419YYbvuDUICoCCmWv5TZHlm57RPXCeVzYWYG/LBgQY3/nQL0CLfWWT
+B2GeYNdx5x7OSfEkhcRKLBioHNtn0MniRzqMca42K9qsxQydtHE=
+=yRAJ
+-----END PGP SIGNATURE-----
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+I am the admin of kris.fail (Twitter:@8A4AB,Keybase:kris57).
+I am in control of my PGP key.
+I am in control of my other secret keys.
+I will update this canary within 14 days.
+Today is 2021-04-26.
+My PGP Keys
+6E9A41E8DC92B517EEBA00F43DE7586AE63EF528
+3BCCC7CFD2597E5344DD964A729B523D11F3A8D7(Main)
+542268FE2833D36DBDE6FD40D6F50A387C6C596C
+
+My Cryptocurrency Address
+BTC
+bc1qhp5yxfhys888vr7qc4weq39yekm0q0jqlfruuz
+1qk4ZjySJDoET4REN1YwE5xTV1GBdRVEa
+ETH
+0xCD79fa8a3e2f4623a360684D7f5c53a802b9C062
+0xeCBC0a5B0A4483029debf81077cf4E5C1908D4E6
+Ripple
+rJKzCruoMcBwQgyHQ4GTX32TpDztwsBAhC
+Litecoin
+ltc1qm974vdphxrazertyzglwmyg8ad5jwuh9w7vkgq
+Dash
+XuxWuEUCJryvnVrL899BMysgP8mJXayS4D
+Stellar
+GDKC64EIYOOUXSHJ2GITOWOB43EYU2LWSJVHX2C5RIPOVTHJIU2EFI2E
+Zcash
+t1MViRBLjo4Ti3sMDtSMwVFGsergNdr2Sqb
+Monero
+4B9ztHPP76J7dM6NhxL4ExfUdVRkyRgRC9rPN2mrXacWaY9PaT4u96GZiVPACFNnd7CgLyiypmA2TR8Zt8wLsRsETepGiU7
+Loki
+L8eWtZP6tYLLHyLeBgBcUQdi57KyZESuUSn3EDZLZucaFqphXepLJj49oJmEatfqkcP5w4RGiZcLzh7yiVQSkGVv7GXc5oQ
+Cardano
+addr1q85ucdtfkmc9tnadtcdu6sryz5f82k80dfxt5aw87q998zk6u4e0kezxls24pcsk5le4cg9pr8d2mufkszn3gcw5p4msxqetwe
+
+My Mail Address(If you have sent us cryptocurrency, please let us know if you can.)
+
+kris319@protonmail.com
+Latest bitcoin block hash:
+000000000000000000053683c73c7b622dd2c592c4609c3a64199c2ed728f54f
+-----BEGIN PGP SIGNATURE-----
+
+iKcEARYKAB0WIQRUImj+KDPTbb3m/UDW9Qo4fGxZbAUCYIahGgAKCRDW9Qo4fGxZ
+bLcTAcdFauBXsdL3DY6jnMYa+3elOoDsYv27o8CVfK0UlahhzY+BzfgVE94FV/vl
+uGTXU/PFSain1kohIwAByKfYl88Zx0v+q5EWnjgl7a7TTUO6TGpsrc2TTZrpoDyv
+5wpA3IvtPzzK5shjyGUw6y58V4d/OIwqAA==
+=fn+L
+-----END PGP SIGNATURE-----
+
+BTC SIGNATURE
+IAx1bR5iROySFpI3vNXFDGrYMJUbLg2rqazhkQw5p+3tGn24ZpBfnekDJv91xYnPoqAwCprahS+KB2hUjyozIGg=

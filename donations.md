@@ -8,7 +8,8 @@
 **Monero**:`4B9ztHPP76J7dM6NhxL4ExfUdVRkyRgRC9rPN2mrXacWaY9PaT4u96GZiVPACFNnd7CgLyiypmA2TR8Zt8wLsRsETepGiU7`  
 **Loki**:`L8eWtZP6tYLLHyLeBgBcUQdi57KyZESuUSn3EDZLZucaFqphXepLJj49oJmEatfqkcP5w4RGiZcLzh7yiVQSkGVv7GXc5oQ`  
 **Cardano**:`addr1q85ucdtfkmc9tnadtcdu6sryz5f82k80dfxt5aw87q998zk6u4e0kezxls24pcsk5le4cg9pr8d2mufkszn3gcw5p4msxqetwe`,`addr1q8599jlha4rrvv5xu0z8nwaw978g6kknrr7c85hqy0zwaenkpmvu72d2zpk5qrxdq8mvrgsjm42gvwc2tc6mhlndx3psp0jcg0`  
-**KOTO**:`k1F3NSENWfhSe47G1VVnATn6qyuUc5B1Pr2`,`koto1c24u5nw0fy0d3qme9g46m83ud7xkqxnjeqv9cmgheyq4etl239uenjup0apc37aa6mmmxwpu495`
-暗号通貨を送っていただいた際にはご一報いただけるとありがたいです。  
+**KOTO**:`k1F3NSENWfhSe47G1VVnATn6qyuUc5B1Pr2`,`koto1c24u5nw0fy0d3qme9g46m83ud7xkqxnjeqv9cmgheyq4etl239uenjup0apc37aa6mmmxwpu495`  
+暗号通貨を送っていただいた際には`kris319@protonmail.com`までご一報いただけるとありがたいです。  
 主にドメイン費用として使わせていただきます。  
+署名付きは[canary.txt](https://kris.fail/canary.txt) を参照。  
 Amazon:[欲しい物リスト](https://amazon.jp/hz/wishlist/ls/3F5PGKBJUIAEG)

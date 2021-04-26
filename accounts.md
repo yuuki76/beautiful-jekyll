@@ -1,6 +1,8 @@
 # Account List
 
-Updated:2021/04/19  
+Updated:2021/04/26  
+
+PGPやDonaitonsに書いてあるやつをまとめて署名したやつ(語彙)はこちら[canary.txt](https://kris.fail/canary.txt)  
 
 <details>
  <summary>Mail Address</summary>
