@@ -102,4 +102,4 @@ SSSS.DYNAZENON {保留}<br>
 学校 やだ<br>
 4/20<br>
 学校 やだ<br>
-4/21<br>テスト やだ 傷物語 神
+4/21<br>テスト やだ 傷物語 神<br>4/22<br>HDD壊れた NieR Replicant v1.22やった<br>4/23<br>HDD到着 換装<br>4/24<br>学校 あやだ<br>4/25<br>NieRやった Aエンドおわた<br>まどマギ新作きた
