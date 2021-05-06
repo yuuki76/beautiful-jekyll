@@ -31,3 +31,5 @@
 - 魔女の旅々(4巻)
 
 - EX-ARM
+
+- HELLSING
