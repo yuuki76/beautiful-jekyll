@@ -1,3 +1,8 @@
+---
+layout: page
+title: donation
+subtitle: Why you'd want to go on a date with me
+---
 **BTC**:`bc1qhp5yxfhys888vr7qc4weq39yekm0q0jqlfruuz` `1qk4ZjySJDoET4REN1YwE5xTV1GBdRVEa`  
 **Ethereum**:`0xCD79fa8a3e2f4623a360684D7f5c53a802b9C062` `0xeCBC0a5B0A4483029debf81077cf4E5C1908D4E6`  
 **Ripple**:`rJKzCruoMcBwQgyHQ4GTX32TpDztwsBAhC`  

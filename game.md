@@ -1,3 +1,8 @@
+---
+layout: page
+title: game
+subtitle: Why you'd want to go on a date with me
+---
 やったゲーム列挙してるだけ
 
 - GTAⅤ

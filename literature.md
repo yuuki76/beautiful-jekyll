@@ -1,3 +1,8 @@
+---
+layout: page
+title: litrature
+subtitle: Why you'd want to go on a date with me
+---
 読んだ本列挙してるだけ
 
 - とある魔術の禁書目録

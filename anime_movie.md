@@ -1,3 +1,8 @@
+---
+layout: page
+title: Anime
+subtitle: Why you'd want to go on a date with me
+---
 # 見た映像作品
 
 あまりにも汚いので整理する予定

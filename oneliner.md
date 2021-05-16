@@ -1,3 +1,8 @@
+---
+layout: page
+title: onliner
+subtitle: Why you'd want to go on a date with me
+---
 マジで今年の出来事殆ど覚えてないことに気づいたので毎日一行程度の日記書きます(かき)
 
 2021/3/8<br>
