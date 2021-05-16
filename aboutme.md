@@ -1,7 +1,14 @@
 ---
+
 layout: page
 title: About me
+
 ---
+
+# ミラー
+
+Deployの停止に備えてCloudflare Pagesのミラー。  
+<https://cf-pages.kris.fail>
 
 # 自己紹介
 
