@@ -1,0 +1,12 @@
+.redmarker {
+ background: linear-gradient(transparent 0%, #C10037 0%);
+font-weight: bold; 
+}
+.greenmarker {
+ background: linear-gradient(transparent 0%, #00B616 0%);
+font-weight: bold; 
+}
+.orangemarker {
+ background: linear-gradient(transparent 0%, #EF4E00 0%);
+font-weight: bold; 
+}
