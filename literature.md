@@ -33,3 +33,5 @@
 - EX-ARM
 
 - HELLSING
+
+- 神のみぞ知るセカイ

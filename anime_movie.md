@@ -2,7 +2,10 @@
 
 あまりにも汚いので整理する予定
 
-特におすすめの作品:<mark>おすすめ</mark>
+<span class="greenmarker">おすすめ</span>:強く勧められる  
+(記載なし):作品として最低限完成している～面白い  
+<span class="redmarker">問題作</span>:作品として成立していない,重大な問題がある  
+<span class="orangemarker">劣化</span>:原作あり/シリーズで劣化してる作品
 
 ## アニメ
 
@@ -12,7 +15,7 @@
 
 ~~作品名(放映媒体,放映期間)。放映期間はn年季節(冬:1～3月,春:4～6月,夏:7～9月,秋:10～12月)。1期でサブタイトルなどで適切なものがなければ{無印}と書く。~~
 
-- コードギアス
+- コードギアス <span class="greenmarker">おすすめ</span>
   
   - 反逆のルルーシュ (TV 2)
   - 反逆のルルーシュR2 (TV 2)
@@ -22,7 +25,7 @@
     - III 皇道 (劇場t)
   - 復活のルルーシュ (劇場t)
 
-- 新世紀エヴァンゲリオン
+- 新世紀エヴァンゲリオン <span class="greenmarker">おすすめ</span>
   
   - 新世紀エヴァンゲリオン (TV 2)
   
@@ -36,52 +39,52 @@
   
   - シン・エヴァンゲリオン劇場版𝄇 (劇場t)
 
-- ひぐらしの<span style="color:red">な</span>く頃に
+- ひぐらしの<span style="color:red">な</span>く頃に 
   
   - ひぐらしの<span style="color:red">な</span>く頃に (TV 2)
   - 解 (TV 2)
   - 業 (TV 2)
 
-- STEINS;GATE
+- STEINS;GATE <span class="greenmarker">おすすめ</span>
   
   - STEINS;GATE (TV 2)
   - 0 (TV 2)
 
-- 魔法少女まどか☆マギカ
+- 魔法少女まどか☆マギカ <span class="greenmarker">おすすめ</span>
   
   - 魔法少女まどか☆マギカ (TV 1)
   - 始まりの物語 (劇場t)
   - 永遠の物語 (劇場t)
   - 叛逆の物語 (劇場t)
 
-- 攻殻機動隊
+- 攻殻機動隊 <span class="greenmarker">おすすめ</span>
   
   - 攻殻機動隊 STAND ALONE COMPLEX (TV 2)
   - 攻殻機動隊 S.A.C. 2nd GIG (TV 2)
   - GHOST IN THE SHELL / 攻殻機動隊 (劇場t)
 
-- とある
+- とある <span class="greenmarker">おすすめ</span>
   
   - とある魔術の禁書目録
     - とある魔術の禁書目録 (TV 2)
     - Ⅱ (TV 2)
-    - Ⅲ (TV 2)
+    - Ⅲ (TV 2) <span class="redmarker">問題作</span>
   - とある科学の超電磁砲
     - とある科学の超電磁砲 (TV 2)
     - S (TV 2)
     - T (TV 2)
-  - とある科学の一方通行 (TV 1)
+  - とある科学の一方通行 (TV 1) <span class="orangemarker">劣化</span>
 
 - ソードアート・オンライン
   
-  - ソードアート・オンライン (TV 2)
+  - ソードアート・オンライン (TV 2) <span class="greenmarker">おすすめ</span>
   - Ⅱ (TV 2)
   - アリシゼーション (TV 2)
-  - アリシゼーション War of Underworld (TV 2)
+  - アリシゼーション War of Underworld (TV 2) <span class="orangemarker">劣化</span>
 
-- 物語
+- 物語 <span class="greenmarker">おすすめ</span>
   
-  - 化物語 (TV 1)
+  - 化物語 (TV 1) 
   
   - 傷物語
     
@@ -89,7 +92,7 @@
     - Ⅱ 熱血篇 (劇場t)
     - Ⅲ 冷血篇 (劇場t)
 
-- この素晴らしい世界に祝福を！
+- この素晴らしい世界に祝福を！ <span class="greenmarker">おすすめ</span>
   
   - この素晴らしい世界に祝福を！ (TV 1)
   
@@ -97,7 +100,7 @@
   
   - 紅伝説 (劇場t)
 
-- Fate
+- Fate <span class="greenmarker">おすすめ</span>
   
   - Fate/stay night (TV 2)
   
@@ -115,7 +118,7 @@
   
   - ロード・エルメロイII世の事件簿 (TV 1)
 
-- 空の境界
+- 空の境界 <span class="greenmarker">おすすめ</span>
   
   - 第一章 俯瞰風景 (劇場t) 
   
@@ -143,7 +146,7 @@
   
   - ? (TV 1)
 
-- 神のみぞ知るセカイ
+- 神のみぞ知るセカイ <span class="greenmarker">おすすめ</span>
   
   - 神のみぞ知るセカイ (TV 1)
   
@@ -151,13 +154,13 @@
   
   - 女神編 (TV 1)
 
-- 結城友奈は勇者である
+- 結城友奈は勇者である <span class="greenmarker">おすすめ</span>
   
   - -結城友奈の章- (TV 1)
   
   - -鷲尾須美の章-/-勇者の章- (TV 1)
 
-- BLACK LAGOON (TV 2)
+- BLACK LAGOON (TV 2) <span class="greenmarker">おすすめ</span>
 
 - ストライクウィッチーズ
   
@@ -165,16 +168,16 @@
 
 - THE IDOLM＠STER
   
-  - THE IDOLM＠STER (TV 2)
+  - THE IDOLM＠STER (TV 2) <span class="greenmarker">おすすめ</span>
   - THE IDOLM＠STER CINDERELLA GIRLS (TV 2)
 
 - バッカーノ! (TV 2)
 
-- NHKにようこそ！ (TV 2)
+- NHKにようこそ！ (TV 2) <span class="greenmarker">おすすめ</span>
 
 - まちカドまぞく
   
-  - まちカドまぞく (TV 1)
+  - まちカドまぞく (TV 1) <span class="greenmarker">おすすめ</span>
 
 - 侵略!イカ娘
   
@@ -200,7 +203,7 @@
 
 - ふらいんぐうぃっち (TV 1)
 
-- SHIROBAKO
+- SHIROBAKO <span class="greenmarker">おすすめ</span>
   
   - SHIROBAKO (TV 2)
   
@@ -218,7 +221,7 @@
   
   - 深き魂の黎明 (劇場t)
 
-- 小林さんちのメイドラゴン
+- 小林さんちのメイドラゴン <span class="greenmarker">おすすめ</span>
   
   - 小林さんちのメイドラゴン (TV 1)
 
@@ -250,7 +253,7 @@
 
 - PSYCHO-PASS サイコパス
   
-  - PSYCHO-PASS サイコパス (TV 2)
+  - PSYCHO-PASS サイコパス (TV 2) <span class="greenmarker">おすすめ</span>
   
   - 2 (TV 2)
   
@@ -266,7 +269,7 @@
   
   - FIRST INSPECTOR (劇場t)
 
-- 這いよれ!ニャル子さん
+- 這いよれ!ニャル子さん <span class="greenmarker">おすすめ</span>
   
   - 這いよれ!ニャル子さん (TV 1)
   
@@ -286,9 +289,9 @@
 
 - がっこうぐらし！ (TV 1)
 
-- 日常 (TV 2)
+- 日常 (TV 2) <span class="greenmarker">おすすめ</span>
 
-- のんのんびより
+- のんのんびより <span class="greenmarker">おすすめ</span>
   
   - のんのんびより (TV 1)
   
@@ -334,11 +337,11 @@
 
 - ワンパンマン
   
-  - 1期 (TV 1)
+  - 1期 (TV 1) <span class="greenmarker">おすすめ</span>
   
   - 2期 (TV 1)
 
-- GOSICK (TV 2)
+- GOSICK (TV 2) <span class="greenmarker">おすすめ</span>
 
 - Re:CREATORS (TV 2)
 
@@ -362,7 +365,7 @@
   
   - ’ (TV 1)
 
-- WORKING!!
+- WORKING!! <span class="greenmarker">おすすめ</span> 
   
   - WORKING!! (TV 1)
   
@@ -370,9 +373,9 @@
   
   - !!! (3期) (TV 1)
 
-- 四畳半神話大系 (TV 1)
+- 四畳半神話大系 (TV 1) <span class="greenmarker">おすすめ</span>
 
-- 宝石の国 (TV 1)
+- 宝石の国 (TV 1) <span class="greenmarker">おすすめ</span>
 
 - 翠星のガルガンティア (TV 1)
 
@@ -386,7 +389,7 @@
   
   - あの日見た花の名前を僕達はまだ知らない。 (TV 1)
 
-- プリンセス・プリンシパル
+- プリンセス・プリンシパル <span class="greenmarker">おすすめ</span>
   
   - プリンセス・プリンシパル (TV 1)
 
@@ -422,7 +425,7 @@
 
 - 六畳間の侵略者!? (TV 1)
 
-- カウボーイビバップ (TV 2)
+- カウボーイビバップ (TV 2) <span class="greenmarker">おすすめ</span>
 
 - 人類は衰退しました (TV 1)
 
@@ -432,7 +435,7 @@
 
 - 裏世界ピクニック (TV 1)
 
-- 輪るピングドラム (TV 2)
+- 輪るピングドラム (TV 2) <span class="greenmarker">おすすめ</span>
 
 - HELLSING
   
@@ -449,3 +452,10 @@
 - スノーデン
 
 - Snowpiercer(2013)
+
+## 統計
+
+<details><summary>キモいので隠蔽</summary>
+全97作品,うちTVアニメ135シーズン,188.5クール<br>
+OVA2作品2.5クール<br>
+劇場作品38</details>
