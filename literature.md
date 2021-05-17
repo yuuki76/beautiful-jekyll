@@ -1,7 +1,10 @@
 ---
+
 layout: page
 title: litrature
+
 ---
+
 読んだ本列挙してるだけ
 
 - とある魔術の禁書目録
@@ -25,6 +28,8 @@ title: litrature
 - 群論(岩波数学選書)
 
 - To LOVEる
+  
+  - ダークネス
 
 - 真月譚月姫
 
@@ -39,3 +44,11 @@ title: litrature
 - HELLSING
 
 - 神のみぞ知るセカイ
+
+- WORKING!!
+
+- となりの関くん
+
+- Death Note
+
+- 暗殺教室
