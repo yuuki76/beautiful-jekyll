@@ -1,5 +1,4 @@
 ---
-
 layout: page
 title: onliner
 
@@ -133,4 +132,4 @@ SSSS.DYNAZENON {保留}<br>
 
 - atama+受験した
 
-- 
+5/17 攻殻機動隊(1995)見た DualSense戻ってきた
