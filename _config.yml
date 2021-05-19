@@ -19,6 +19,7 @@ navbar-links:
   Author's home: "https://github.com/yuuki76/yuuki76.github.io/"
   accounts: "accounts"
   Donaitons: "donations"
+  Tags: "tags"
   LIST:
     - Anime Movie: "anime_movie"
     - Literature: "literature"
