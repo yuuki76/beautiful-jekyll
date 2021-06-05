@@ -13,6 +13,9 @@ title: donation
 **Monero**:`4B9ztHPP76J7dM6NhxL4ExfUdVRkyRgRC9rPN2mrXacWaY9PaT4u96GZiVPACFNnd7CgLyiypmA2TR8Zt8wLsRsETepGiU7`  
 **Loki**:`L8eWtZP6tYLLHyLeBgBcUQdi57KyZESuUSn3EDZLZucaFqphXepLJj49oJmEatfqkcP5w4RGiZcLzh7yiVQSkGVv7GXc5oQ`  
 **Cardano**:`addr1q8599jlha4rrvv5xu0z8nwaw978g6kknrr7c85hqy0zwaenkpmvu72d2zpk5qrxdq8mvrgsjm42gvwc2tc6mhlndx3psp0jcg0`    
+
+
+**HandShake(HNS)**:`hs1q5vfhw30kz7k9zm2znxpdc9dyql0ca5zhanapr9`  
 暗号通貨を送っていただいた際には`kris319@protonmail.com`までご一報いただけるとありがたいです。  
 主にドメイン費用として使わせていただきます。  
 署名付きは[canary.txt](https://kris.fail/canary.txt) を参照。  
