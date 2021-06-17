@@ -383,9 +383,9 @@ title: Anime
 
 - 宝石の国 (TV 1) <span class="greenmarker">おすすめ</span>
 
-- 翠星のガルガンティア (TV 1)
+- 翠星のガルガンティア (TV 1) <span class="greenmarker">おすすめ</span>
 
-- Another (TV 1)
+- Another (TV 1) <span class="greenmarker">おすすめ</span>
 
 - ヴァイオレット・エヴァーガーデン
   
@@ -419,7 +419,7 @@ title: Anime
 
 - GRIDMAN UNIVERSE
   
-  - SSSS.GRIDMAN (TV 1)
+  - SSSS.GRIDMAN (TV 1) <span class="greenmarker">おすすめ</span>
 
 - 異種族レビュアーズ (TV 1)
 
@@ -445,7 +445,7 @@ title: Anime
 
 - HELLSING
   
-  - HELLSING(OVA) (OVA 2)
+  - HELLSING(OVA) (OVA 2) <span class="greenmarker">おすすめ</span>
 
 - 天地創造デザイン部 (TV 1)
 
@@ -455,9 +455,11 @@ title: Anime
   
   - 未来日記 リダイヤル (OVA 1/12)
 
-### 途中まで見た
+- キルラキル (TV 2) <span class="greenmarker">おすすめ</span>
 
-<!-- 鬼滅の刃 Re:ゼロから始める異世界生活 青春ブタ野郎はバニーガール先輩の夢を見ない 魔法少女育成計画 Serial Experiments Lain 理解不能なので精神が良いときに… 幼女戦記 瀬戸の花嫁 あそびあそばせ 恋する小惑星 -->
+- 夜は短し歩けよ乙女 (劇場t)
+
+<!--途中までみた 鬼滅の刃 Re:ゼロから始める異世界生活 青春ブタ野郎はバニーガール先輩の夢を見ない 魔法少女育成計画 Serial Experiments Lain 理解不能なので精神が良いときに… 幼女戦記 瀬戸の花嫁 あそびあそばせ 恋する小惑星 -->
 
 ## 実写
 
@@ -468,6 +470,6 @@ title: Anime
 ## 統計
 
 <details><summary>キモいので隠蔽</summary>
-全98作品,うちTVアニメ136シーズン,190.5クール<br>
+全100作品,うちTVアニメ137シーズン,192.5クール<br>
 OVA3作品2.5クール<br>
-劇場作品38</details>
+劇場作品39</details>
