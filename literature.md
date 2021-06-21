@@ -1,5 +1,4 @@
 ---
-
 layout: page
 title: litrature
 
@@ -52,3 +51,5 @@ title: litrature
 - Death Note
 
 - 暗殺教室
+
+- カードキャプターさくら
