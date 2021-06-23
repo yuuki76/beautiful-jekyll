@@ -420,6 +420,7 @@ title: Anime
 - GRIDMAN UNIVERSE
   
   - SSSS.GRIDMAN (TV 1) <span class="greenmarker">おすすめ</span>
+  - SSSS.DYNAZENON (TV 1)
 
 - 異種族レビュアーズ (TV 1)
 
@@ -459,6 +460,26 @@ title: Anime
 
 - 夜は短し歩けよ乙女 (劇場t)
 
+- ファンタシースターオンライン
+  
+  - ファンタシースターオンライン2 ジ アニメーション (TV 1)
+  
+  - ファンタシースターオンライン2 エピソード・オラクル (TV 2)
+
+- アホガール (TV 0.5)
+
+- Vivy -Fluorite Eye's Song- (TV 1)
+
+### 視聴中
+
+- カードキャプターさくら
+
+#### Seasonal
+
+- 86 (分割)
+
+- 
+
 <!--途中までみた 鬼滅の刃 Re:ゼロから始める異世界生活 青春ブタ野郎はバニーガール先輩の夢を見ない 魔法少女育成計画 Serial Experiments Lain 理解不能なので精神が良いときに… 幼女戦記 瀬戸の花嫁 あそびあそばせ 恋する小惑星 -->
 
 ## 実写
@@ -467,9 +488,11 @@ title: Anime
 
 - Snowpiercer(2013)
 
+- TENET
+
 ## 統計
 
 <details><summary>キモいので隠蔽</summary>
-全100作品,うちTVアニメ137シーズン,192.5クール<br>
+全103作品,うちTVアニメ140シーズン,196クール<br>
 OVA3作品2.5クール<br>
 劇場作品39</details>
