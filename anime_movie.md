@@ -470,6 +470,8 @@ title: Anime
 
 - Vivy -Fluorite Eye's Song- (TV 1)
 
+- 神無月の巫女 (TV 1)
+
 ### 視聴中
 
 - カードキャプターさくら
@@ -493,6 +495,6 @@ title: Anime
 ## 統計
 
 <details><summary>キモいので隠蔽</summary>
-全103作品,うちTVアニメ140シーズン,196クール<br>
+全104作品,うちTVアニメ141シーズン,197クール<br>
 OVA3作品2.5クール<br>
 劇場作品39</details>
