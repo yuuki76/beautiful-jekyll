@@ -17,7 +17,7 @@ navbar-links:
   Home: "/"
   About Me: "aboutme"
   Author's home: "https://github.com/yuuki76/yuuki76.github.io/"
-  Donaitons: "donations"
+  Donaiton: "donation"
   Tags: "tags"
   LIST:
     - Anime Movie: "anime_movie"
@@ -26,7 +26,7 @@ navbar-links:
     - Awesome Soft,Service: "softserv"
     - Onelinediary: "oneliner"
     - Music: "music"
-    - acoounts: "accounts"
+    - Acoounts: "accounts"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
