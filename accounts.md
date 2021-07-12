@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Account
+
 ---
+
 # Account List
 
-Updated:2021/04/26  
+Updated:2021/07/12  
 
 PGPやDonaitonsに書いてあるやつをまとめて署名したやつ(語彙)はこちら[canary.txt](https://kris.fail/canary.txt)  
 
@@ -27,6 +29,7 @@ PGP(X448-Minimal):206B 26CE FA50 D578 4BDD  E6F3 E2EE 3DE5 3B67 E3AD
 
 ~~[Onion v3 mirror](http://kris57xeegb7q5mxrigcmnnjryrdkecfsjolya5m7jf6gyj3ff24hlyd.onion/)~~  
 [GitHub-Pages(Main)](https://kris.fail)  
+[Cloudflare(Sub)](https://cf-pages.kris.fail)  
 [Netlify(Currently NOT working)](https://yuuki76.netlify.app)  
 [~~ZeroNet~~](http://127.0.0.1:43110/16BY32M366k57cR5KRnCAKxXDX4PnHUVnP)  http://127.0.0.1:43110/1KzaASN8yqGqZCWuED93UB6pYyFLNVzfSX
 [Freedom Hosting RE Mirror](http://kris5kix477vlnr7vpufa3vdu3ncmlor6dellplxzaoy3levwchatrqd.onion/)  
