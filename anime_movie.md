@@ -74,6 +74,7 @@ title: Anime
   - とある魔術の禁書目録
     - とある魔術の禁書目録 (TV 2)
     - Ⅱ (TV 2)
+    - エンデュミオンの奇蹟 (劇場t)
     - Ⅲ (TV 2) <span class="redmarker">問題作</span>
   - とある科学の超電磁砲
     - とある科学の超電磁砲 (TV 2)
@@ -508,7 +509,9 @@ title: Anime
   
   - 劇場版 そらのおとしもの 時計じかけの哀女神 (劇場t)
   
-  - そらのおとしものFinal 永遠の私の鳥籠 (劇場t) 劣化
+  - そらのおとしものFinal 永遠の私の鳥籠 (劇場t) <span class="orangemarker">劣化</span>
+
+- 鋼の錬金術師FA (TV 5) <span class="greenmarker">おすすめ</span>
 
 ### 視聴中
 
@@ -537,6 +540,6 @@ title: Anime
 ## 統計
 
 <details><summary>キモいので隠蔽</summary>
-全117作品,うちTVアニメ155シーズン,214クール<br>
+全118作品,うちTVアニメ156シーズン,219クール<br>
 OVA3作品2.5クール<br>
-劇場作品41</details>
+劇場作品44</details>
