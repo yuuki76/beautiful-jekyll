@@ -8,7 +8,7 @@ title: Anime
 
 あまりにも汚いので整理する予定
 
-<span class="greenmarker">おすすめ</span>:強く勧められる  
+<span class="greenmarker">おすすめ</span>:強く勧められる  ($$\nLeftrightarrow$$ 純粋に面白いかどうか,スピンオフ系は勧めにくい)
 (記載なし):作品として最低限完成している～面白い  
 <span class="redmarker">問題作</span>:作品として成立していない,重大な問題がある  
 <span class="orangemarker">劣化</span>:原作あり/シリーズで劣化してる作品
@@ -18,6 +18,8 @@ title: Anime
 (TV n)/(OVA n):TV放送/OVAで1話30分前後のもの,n\*12話前後(⇔nクール)  
 (TV *n*)/(OVA *n*):OVAや15分枠などを1話30分に換算したもの  
 (劇場t):説明不要
+
+**話数の間違いが複数含まれています。ご注意ください**
 
 ~~作品名(放映媒体,放映期間)。放映期間はn年季節(冬:1～3月,春:4～6月,夏:7～9月,秋:10～12月)。1期でサブタイトルなどで適切なものがなければ{無印}と書く。~~
 
@@ -178,7 +180,7 @@ title: Anime
   - THE IDOLM＠STER (TV 2) <span class="greenmarker">おすすめ</span>
   - THE IDOLM＠STER CINDERELLA GIRLS (TV 2)
 
-- バッカーノ! (TV 2)
+- バッカーノ! (TV 1)
 
 - NHKにようこそ！ (TV 2) <span class="greenmarker">おすすめ</span>
 
@@ -513,6 +515,8 @@ title: Anime
 
 - 鋼の錬金術師FA (TV 5) <span class="greenmarker">おすすめ</span>
 
+- サーバント×サービス (TV 1)
+
 ### 視聴中
 
 - N/A
@@ -540,6 +544,6 @@ title: Anime
 ## 統計
 
 <details><summary>キモいので隠蔽</summary>
-全118作品,うちTVアニメ156シーズン,219クール<br>
+全119作品,うちTVアニメ157シーズン,219クール<br>
 OVA3作品2.5クール<br>
 劇場作品44</details>
