@@ -10,7 +10,13 @@ title: Anime
 
 **当然ですが記事内の評価や感想はすべて主観です。事実に反した記述を見つけた場合はIssueかTwitterのDMへ。**
 
-<span class="greenmarker">おすすめ</span>:強く勧められる  ($$\nLeftrightarrow$$ 純粋に面白いかどうか,スピンオフ系は勧めにくい)
+コメント書け❔と言われたので書きます(柿)  
+批判的なコメントの方が書きやすいので全体的に批判的な論調になりがちです。申し訳ないのよ❔  
+あらすじなど書くと冗長になるのでそういうのは省いてアニメとしての完成度や方向性を適当に書く。
+
+## 評価の詳細
+
+<span class="greenmarker">おすすめ</span>:強く勧められる  ($$\nLeftrightarrow$$ 純粋に面白いかどうか,スピンオフ系は勧めにくい)  
 (記載なし):作品として最低限完成している～面白い  
 <span class="redmarker">問題作</span>:作品として成立していない,重大な問題がある  
 <span class="orangemarker">劣化</span>:原作あり/シリーズで劣化してる作品
@@ -49,7 +55,8 @@ title: Anime
   
   - シン・エヴァンゲリオン劇場版𝄇 (劇場t)
 
-- ひぐらしの<span style="color:red">な</span>く頃に 
+- ひぐらしの<span style="color:red">な</span>く頃に  
+  グロ多めのミステリー,個性的なキャラクターと簡単には解けない謎がとてもよい。
   
   - ひぐらしの<span style="color:red">な</span>く頃に (TV 2)
   - 解 (TV 2)
@@ -66,15 +73,18 @@ title: Anime
   - 始まりの物語 (劇場t)
   - 永遠の物語 (劇場t)
   - 叛逆の物語 (劇場t)
-  - 魔法少女まどか☆マギカ外伝 マギアレコード (TV 1) <span class="orangemarker">劣化</span>
+  - 魔法少女まどか☆マギカ外伝 マギアレコード (TV 1) <span class="orangemarker">劣化</span>  
+    魔法少女まどか☆マギカでやる必要なし。だが、作品として面白い点はすべてまどマギ由来。同放送後,大量に発生したパロディ作品を公式でやってしまった感。  
+    ソシャゲ原作特有の薄いキャラクターが特に問題。
 
 - 攻殻機動隊 <span class="greenmarker">おすすめ</span>
   
-  - 攻殻機動隊 STAND ALONE COMPLEX (TV 2)
+  - 攻殻機動隊 STAND ALONE COMPLEX (TV 2)  
+    文句なしの名作。2002年の作品とは思えない設定 完全に未来を先取りしていた作品。
   - 攻殻機動隊 S.A.C. 2nd GIG (TV 2)
   - GHOST IN THE SHELL / 攻殻機動隊 (劇場t)
 
-- 鋼の錬金術師FA (TV 5) おすすめ
+- 鋼の錬金術師FA (TV 5) <span class="greenmarker">おすすめ</span>
 
 - とある <span class="greenmarker">おすすめ</span>
   
@@ -82,19 +92,24 @@ title: Anime
     - とある魔術の禁書目録 (TV 2)
     - Ⅱ (TV 2)
     - エンデュミオンの奇蹟 (劇場t)
-    - Ⅲ (TV 2) <span class="redmarker">問題作</span>
-  - とある科学の超電磁砲
+    - Ⅲ (TV 2) <span class="redmarker">問題作</span>  
+      尺が絶対的に足りない。電撃文庫で10冊分くらい2クールでやった。作画の乱れも目立つ。原作はそこそこ面白いので残念。
+  - とある科学の超電磁砲  
+    クオリティー安定してるしストーリーも適度にわかりやすい。非常におすすめ
     - とある科学の超電磁砲 (TV 2)
     - S (TV 2)
     - T (TV 2)
-  - とある科学の一方通行 (TV 1) <span class="orangemarker">劣化</span>
+  - とある科学の一方通行 (TV 1) <span class="orangemarker">劣化</span>   
+    スピンオフ漫画のアニメ化だけどキャラデザが魔術シリーズとも元の漫画とも微妙に違う。ストーリーも正直微妙。
 
 - ソードアート・オンライン
   
-  - ソードアート・オンライン (TV 2) <span class="greenmarker">おすすめ</span>
+  - ソードアート・オンライン (TV 2) <span class="greenmarker">おすすめ</span>  
+    前半のワクワク感は異常。死とゲームを結びつけてて抜ける👍
   - Ⅱ (TV 2)
   - アリシゼーション (TV 2)
-  - アリシゼーション War of Underworld (TV 2) <span class="orangemarker">劣化</span>
+  - アリシゼーション War of Underworld (TV 2) <span class="orangemarker">劣化</span>  
+    なんか違うんだよね… 作画はかなりよい
 
 - 物語 <span class="greenmarker">おすすめ</span>
   
