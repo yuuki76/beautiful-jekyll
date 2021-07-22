@@ -6,7 +6,9 @@ title: Anime
 
 # 見た映像作品
 
-あまりにも汚いので整理する予定
+見やすくするためいろいろ検討中
+
+**当然ですが記事内の評価や感想はすべて主観です。事実に反した記述を見つけた場合はIssueかTwitterのDMへ。**
 
 <span class="greenmarker">おすすめ</span>:強く勧められる  ($$\nLeftrightarrow$$ 純粋に面白いかどうか,スピンオフ系は勧めにくい)
 (記載なし):作品として最低限完成している～面白い  
@@ -17,7 +19,7 @@ title: Anime
 
 (TV n)/(OVA n):TV放送/OVAで1話30分前後のもの,n\*12話前後(⇔nクール)  
 (TV *n*)/(OVA *n*):OVAや15分枠などを1話30分に換算したもの  
-(劇場t):説明不要
+(劇場t):説明不要,tを付けているのは検索用.
 
 **話数の間違いが複数含まれています。ご注意ください**
 
@@ -64,12 +66,15 @@ title: Anime
   - 始まりの物語 (劇場t)
   - 永遠の物語 (劇場t)
   - 叛逆の物語 (劇場t)
+  - 魔法少女まどか☆マギカ外伝 マギアレコード (TV 1) <span class="orangemarker">劣化</span>
 
 - 攻殻機動隊 <span class="greenmarker">おすすめ</span>
   
   - 攻殻機動隊 STAND ALONE COMPLEX (TV 2)
   - 攻殻機動隊 S.A.C. 2nd GIG (TV 2)
   - GHOST IN THE SHELL / 攻殻機動隊 (劇場t)
+
+- 鋼の錬金術師FA (TV 5) おすすめ
 
 - とある <span class="greenmarker">おすすめ</span>
   
@@ -147,13 +152,11 @@ title: Anime
   
   - 未来福音/未来福音 extra chorus (劇場t)
 
-- カーニバル・ファンタズム (OVA 0.5)
+- NHKにようこそ！ (TV 2) <span class="greenmarker">おすすめ</span>
 
-- かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜
+- まちカドまぞく
   
-  - かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜 (TV 1)
-  
-  - ? (TV 1)
+  - まちカドまぞく (TV 1) <span class="greenmarker">おすすめ</span>
 
 - 神のみぞ知るセカイ <span class="greenmarker">おすすめ</span>
   
@@ -171,6 +174,82 @@ title: Anime
 
 - BLACK LAGOON (TV 2) <span class="greenmarker">おすすめ</span>
 
+- 小林さんちのメイドラゴン <span class="greenmarker">おすすめ</span>
+  
+  - 小林さんちのメイドラゴン (TV 1)
+
+- SHIROBAKO <span class="greenmarker">おすすめ</span>
+  
+  - SHIROBAKO (TV 2)
+  
+  - 劇場版 (劇場t)
+
+- PSYCHO-PASS サイコパス
+  
+  - PSYCHO-PASS サイコパス (TV 2) <span class="greenmarker">おすすめ</span>
+  
+  - 2 (TV 2)
+  
+  - 3 (TV *2*)
+  
+  - 劇場版 (劇場t)
+  
+  - Sinners of the System
+    
+    - Case.1『罪と罰』 (劇場t)
+    
+    - Case.2『First Guardian』 (劇場t)
+    
+    - Case.3『恩讐の彼方に＿＿』 (劇場t)
+  
+  - FIRST INSPECTOR (劇場t)
+
+- 日常 (TV 2) <span class="greenmarker">おすすめ</span>
+
+- のんのんびより <span class="greenmarker">おすすめ</span>
+  
+  - のんのんびより (TV 1)
+  
+  - りぴーと (TV 1)
+  
+  - ばけーしょん (劇場t)
+  
+  - のんすとっぷ (TV 1)
+
+- GOSICK (TV 2) <span class="greenmarker">おすすめ</span>
+
+- WORKING!! <span class="greenmarker">おすすめ</span>
+  
+  - WORKING!! (TV 1)
+  
+  - '!! (2期) (TV 1)
+  
+  - !!! (3期) (TV 1)
+
+- 四畳半神話大系 (TV 1) <span class="greenmarker">おすすめ</span>
+
+- 宝石の国 (TV 1) <span class="greenmarker">おすすめ</span>
+
+- 翠星のガルガンティア (TV 1) <span class="greenmarker">おすすめ</span>
+
+- Another (TV 1) <span class="greenmarker">おすすめ</span>
+
+- 輪るピングドラム (TV 2) <span class="greenmarker">おすすめ</span>
+
+- キルラキル (TV 2) <span class="greenmarker">おすすめ</span>
+
+- HELLSING
+  
+  - HELLSING(OVA) (OVA *2*) <span class="greenmarker">おすすめ</span>
+
+- カーニバル・ファンタズム (OVA 0.5)
+
+- かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜
+  
+  - かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜 (TV 1)
+  
+  - ? (TV 1)
+
 - ストライクウィッチーズ
   
   - ストライクウィッチーズ (TV 1)
@@ -181,12 +260,6 @@ title: Anime
   - THE IDOLM＠STER CINDERELLA GIRLS (TV 2)
 
 - バッカーノ! (TV 1)
-
-- NHKにようこそ！ (TV 2) <span class="greenmarker">おすすめ</span>
-
-- まちカドまぞく
-  
-  - まちカドまぞく (TV 1) <span class="greenmarker">おすすめ</span>
 
 - 侵略!イカ娘
   
@@ -212,12 +285,6 @@ title: Anime
 
 - ふらいんぐうぃっち (TV 1)
 
-- SHIROBAKO <span class="greenmarker">おすすめ</span>
-  
-  - SHIROBAKO (TV 2)
-  
-  - 劇場版 (劇場t)
-
 - 俺の妹がこんなに可愛いわけがない
   
   - 1期 (TV 1)
@@ -229,10 +296,6 @@ title: Anime
   - メイドインアビス (TV 1)
   
   - 深き魂の黎明 (劇場t)
-
-- 小林さんちのメイドラゴン <span class="greenmarker">おすすめ</span>
-  
-  - 小林さんちのメイドラゴン (TV 1)
 
 - ゾンビランドサガ
   
@@ -260,24 +323,6 @@ title: Anime
 
 - アニメで分かる心療内科 (Web 0.3)
 
-- PSYCHO-PASS サイコパス
-  
-  - PSYCHO-PASS サイコパス (TV 2) <span class="greenmarker">おすすめ</span>
-  
-  - 2 (TV 2)
-  
-  - 3 (TV *2*)
-  
-  - 劇場版 (劇場t)
-  
-  - Sinners of the System
-    
-    - Case.1『罪と罰』 (劇場t)
-    - Case.2『First Guardian』 (劇場t)
-    - Case.3『恩讐の彼方に＿＿』 (劇場t)
-  
-  - FIRST INSPECTOR (劇場t)
-
 - 這いよれ!ニャル子さん <span class="greenmarker">おすすめ</span>
   
   - 這いよれ!ニャル子さん (TV 1)
@@ -297,18 +342,6 @@ title: Anime
   - 涼宮ハルヒの憂鬱 (TV 2)
 
 - がっこうぐらし！ (TV 1)
-
-- 日常 (TV 2) <span class="greenmarker">おすすめ</span>
-
-- のんのんびより <span class="greenmarker">おすすめ</span>
-  
-  - のんのんびより (TV 1)
-  
-  - りぴーと (TV 1)
-  
-  - ばけーしょん (劇場t)
-  
-  - のんすとっぷ (TV 1)
 
 - バカとテストと召喚獣
   
@@ -350,8 +383,6 @@ title: Anime
   
   - 2期 (TV 1)
 
-- GOSICK (TV 2) <span class="greenmarker">おすすめ</span>
-
 - Re:CREATORS (TV 2)
 
 - 桜Trick (TV 1)
@@ -373,22 +404,6 @@ title: Anime
   - 邪神ちゃんドロップキック (TV 1)
   
   - ’ (TV 1)
-
-- WORKING!! <span class="greenmarker">おすすめ</span> 
-  
-  - WORKING!! (TV 1)
-  
-  - '!! (2期) (TV 1)
-  
-  - !!! (3期) (TV 1)
-
-- 四畳半神話大系 (TV 1) <span class="greenmarker">おすすめ</span>
-
-- 宝石の国 (TV 1) <span class="greenmarker">おすすめ</span>
-
-- 翠星のガルガンティア (TV 1) <span class="greenmarker">おすすめ</span>
-
-- Another (TV 1) <span class="greenmarker">おすすめ</span>
 
 - ヴァイオレット・エヴァーガーデン
   
@@ -445,12 +460,6 @@ title: Anime
 
 - 裏世界ピクニック (TV 1)
 
-- 輪るピングドラム (TV 2) <span class="greenmarker">おすすめ</span>
-
-- HELLSING
-  
-  - HELLSING(OVA) (OVA 2) <span class="greenmarker">おすすめ</span>
-
 - 天地創造デザイン部 (TV 1)
 
 - ワンダーエッグ・プライオリティ
@@ -460,8 +469,6 @@ title: Anime
   - 未来日記 (TV 2)
   
   - 未来日記 リダイヤル (OVA 1/12)
-
-- キルラキル (TV 2) <span class="greenmarker">おすすめ</span>
 
 - 夜は短し歩けよ乙女 (劇場t)
 
@@ -513,9 +520,15 @@ title: Anime
   
   - そらのおとしものFinal 永遠の私の鳥籠 (劇場t) <span class="orangemarker">劣化</span>
 
-- 鋼の錬金術師FA (TV 5) <span class="greenmarker">おすすめ</span>
-
 - サーバント×サービス (TV 1)
+
+- 聖剣使いの禁呪詠唱 (TV 1)
+
+- 神様になった日 (TV 1)
+
+- Caligula (TV 1)
+
+- 異世界はスマートフォンとともに。(TV 1)
 
 ### 視聴中
 
@@ -543,7 +556,9 @@ title: Anime
 
 ## 統計
 
-<details><summary>キモいので隠蔽</summary>
+<details><summary>見ないことを推奨</summary>
+※ガバガバなので多少のズレは許して,一応言っておきますがこういうのでマウント取るつもりはないです<br>
+単に統計が好きなだけなので<br>
 全119作品,うちTVアニメ157シーズン,219クール<br>
 OVA3作品2.5クール<br>
 劇場作品44</details>
