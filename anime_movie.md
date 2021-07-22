@@ -7,9 +7,7 @@ title: Anime
 # 見た映像作品
 
 見やすくするためいろいろ検討中
-
 **当然ですが記事内の評価や感想はすべて主観です。事実に反した記述を見つけた場合はIssueかTwitterのDMへ。**
-
 コメント書け❔と言われたので書きます(柿)  
 批判的なコメントの方が書きやすいので全体的に批判的な論調になりがちです。申し訳ないのよ❔  
 ダラダラ作品紹介書くと冗長になるので最低限にしてアニメとしての完成度や方向性を適当に書く。
@@ -26,9 +24,7 @@ title: Anime
 (TV n)/(OVA n):TV放送/OVAで1話30分前後のもの,n\*12話前後(⇔nクール)  
 (TV *n*)/(OVA *n*):OVAや15分枠などを1話30分に換算したもの  
 (劇場t):説明不要,tを付けているのは検索用.
-
 **話数の間違いが複数含まれています。ご注意ください**
-
 ~~作品名(放映媒体,放映期間)。放映期間はn年季節(冬:1～3月,春:4～6月,夏:7～9月,秋:10～12月)。1期でサブタイトルなどで適切なものがなければ{無印}と書く。~~
 
 - コードギアス <span class="greenmarker">おすすめ</span>
@@ -44,15 +40,10 @@ title: Anime
 - 新世紀エヴァンゲリオン <span class="greenmarker">おすすめ</span>
   
   - 新世紀エヴァンゲリオン (TV 2)
-  
   - Air/まごころを、君に (劇場t)
-  
   - 序 (劇場t)
-  
   - 破 (劇場t)
-  
   - Q (劇場t)
-  
   - シン・エヴァンゲリオン劇場版𝄇 (劇場t)
 
 - ひぐらしの<span style="color:red">な</span>く頃に  
@@ -115,9 +106,7 @@ title: Anime
 - 物語 <span class="greenmarker">おすすめ</span>
   
   - 化物語 (TV 1) 
-  
   - 傷物語
-    
     - Ⅰ 鉄血篇 (劇場t)
     - Ⅱ 熱血篇 (劇場t)
     - Ⅲ 冷血篇 (劇場t)
@@ -126,47 +115,31 @@ title: Anime
   なろうの異世界転移(生?)系。ただ基本ギャグに振ってて主人公が無駄にイキることもないので楽しめる。
   
   - この素晴らしい世界に祝福を！ (TV 1)
-  
   - 2 (TV 1)
-  
   - 紅伝説 (劇場t)
 
 - Fate <span class="greenmarker">おすすめ</span>
   
   - Fate/stay night (TV 2)
-  
   - Fate/Zero (TV 2)
-  
   - Fate/stay night [Unlimited Blade Works] (TV 2)
-  
   - Fate/stay night [Heaven's feel]
-    
     - I.presage flower (劇場t)
     - II.lost butterfly (劇場t)
     - III.spring song (劇場t)
-  
   - 衛宮さんちの今日のごはん (TV 1)
-  
   - ロード・エルメロイII世の事件簿 (TV 1)
 
 - 空の境界 <span class="greenmarker">おすすめ</span>
   
   - 第一章 俯瞰風景 (劇場t) 
-  
   - 第二章 殺人考察（前） (劇場t)
-  
   - 第三章 痛覚残留 (劇場t)
-  
   - 第四章 伽藍の洞 (劇場t)
-  
   - 第五章 矛盾螺旋 (劇場t)
-  
   - 第六章 忘却録音 (劇場t)
-  
   - 第七章 殺人考察（後）  (劇場t)
-  
   - 終章/空の境界 (劇場t)
-  
   - 未来福音/未来福音 extra chorus (劇場t)
 
 - NHKにようこそ！ (TV 2) <span class="greenmarker">おすすめ</span>
@@ -178,15 +151,12 @@ title: Anime
 - 神のみぞ知るセカイ <span class="greenmarker">おすすめ</span>
   
   - 神のみぞ知るセカイ (TV 1)
-  
   - Ⅱ (TV 1)
-  
   - 女神編 (TV 1)
 
 - 結城友奈は勇者である <span class="greenmarker">おすすめ</span>
   
   - -結城友奈の章- (TV 1)
-  
   - -鷲尾須美の章-/-勇者の章- (TV 1)
 
 - BLACK LAGOON (TV 2) <span class="greenmarker">おすすめ</span>
@@ -198,27 +168,18 @@ title: Anime
 - SHIROBAKO <span class="greenmarker">おすすめ</span>
   
   - SHIROBAKO (TV 2)
-  
   - 劇場版 (劇場t)
 
 - PSYCHO-PASS サイコパス
   
   - PSYCHO-PASS サイコパス (TV 2) <span class="greenmarker">おすすめ</span>
-  
   - 2 (TV 2)
-  
   - 3 (TV *2*)
-  
   - 劇場版 (劇場t)
-  
   - Sinners of the System
-    
     - Case.1『罪と罰』 (劇場t)
-    
     - Case.2『First Guardian』 (劇場t)
-    
     - Case.3『恩讐の彼方に＿＿』 (劇場t)
-  
   - FIRST INSPECTOR (劇場t)
 
 - 日常 (TV 2) <span class="greenmarker">おすすめ</span>
@@ -226,11 +187,8 @@ title: Anime
 - のんのんびより <span class="greenmarker">おすすめ</span>
   
   - のんのんびより (TV 1)
-  
   - りぴーと (TV 1)
-  
   - ばけーしょん (劇場t)
-  
   - のんすとっぷ (TV 1)
 
 - GOSICK (TV 2) <span class="greenmarker">おすすめ</span>
@@ -238,9 +196,7 @@ title: Anime
 - WORKING!! <span class="greenmarker">おすすめ</span>
   
   - WORKING!! (TV 1)
-  
   - '!! (2期) (TV 1)
-  
   - !!! (3期) (TV 1)
 
 - 四畳半神話大系 (TV 1) <span class="greenmarker">おすすめ</span>
@@ -264,7 +220,6 @@ title: Anime
 - かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜
   
   - かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜 (TV 1)
-  
   - ? (TV 1)
 
 - ストライクウィッチーズ
@@ -291,13 +246,11 @@ title: Anime
 - ゆるキャン△
   
   - ゆるキャン△ (TV 1)
-  
   - SEASON2 (TV 1)
 
 - 中二病でも恋がしたい
   
   - 中二病でも恋がしたい (TV 1)
-  
   - 戀 (TV 1)
 
 - ふらいんぐうぃっち (TV 1)
@@ -305,13 +258,11 @@ title: Anime
 - 俺の妹がこんなに可愛いわけがない
   
   - 1期 (TV 1)
-  
   - 2期 (TV 1)
 
 - メイドインアビス
   
   - メイドインアビス (TV 1)
-  
   - 深き魂の黎明 (劇場t)
 
 - ゾンビランドサガ
@@ -343,15 +294,12 @@ title: Anime
 - 這いよれ!ニャル子さん <span class="greenmarker">おすすめ</span>
   
   - 這いよれ!ニャル子さん (TV 1)
-  
   - W (TV 1)
 
 - ご注文はうさぎですか？
   
   - ご注文はうさぎですか？ (TV 1)
-  
   - ?? (TV 1)
-  
   - BLOOM (TV 1)
 
 - 涼宮ハルヒ
@@ -363,13 +311,11 @@ title: Anime
 - バカとテストと召喚獣
   
   - 1期 (TV 1)
-  
   - 2期 (TV 1)
 
 - NEW GAME!
   
   - NEW GAME! (TV 1)
-  
   - NEW GAME!! (TV 1)
 
 - 私に天使が舞い降りた！
@@ -379,15 +325,12 @@ title: Anime
 - 魔法科高校の劣等生
   
   - 魔法科高校の劣等生 (TV 2)
-  
   - 来訪者編 (TV 1)
 
 - はたらく細胞
   
   - はたらく細胞 (TV 1)
-  
   - ！！ (TV 1)
-  
   - BLACK (TV 1)
 
 - キルミーベイベー (TV 1)
@@ -397,7 +340,6 @@ title: Anime
 - ワンパンマン
   
   - 1期 (TV 1) <span class="greenmarker">おすすめ</span>
-  
   - 2期 (TV 1)
 
 - Re:CREATORS (TV 2)
@@ -407,19 +349,16 @@ title: Anime
 - ゆるゆり
   
   - ゆるゆり (TV 1)
-  
   - ♪♪ (TV 1)
 
 - 生徒会役員共
   
   - 生徒会役員共 (TV+OVA 2)
-  
   - ＊ (TV+OVA 2)
 
 - 邪神ちゃんドロップキック
   
   - 邪神ちゃんドロップキック (TV 1)
-  
   - ’ (TV 1)
 
 - ヴァイオレット・エヴァーガーデン
@@ -443,7 +382,6 @@ title: Anime
 - Dr.Stone
   
   - Dr.Stone (TV 2)
-  
   - STONE WAR (TV 1)
 
 - はたらく魔王さま！
@@ -484,7 +422,6 @@ title: Anime
 - 未来日記
   
   - 未来日記 (TV 2)
-  
   - 未来日記 リダイヤル (OVA 1/12)
 
 - 夜は短し歩けよ乙女 (劇場t)
@@ -492,7 +429,6 @@ title: Anime
 - ファンタシースターオンライン
   
   - ファンタシースターオンライン2 ジ アニメーション (TV 1)
-  
   - ファンタシースターオンライン2 エピソード・オラクル (TV 2)
 
 - アホガール (TV 0.5)
@@ -530,11 +466,8 @@ title: Anime
 - そらのおとしもの
   
   - そらのおとしもの (TV 1)
-  
   - そらのおとしものf (TV 1)
-  
   - 劇場版 そらのおとしもの 時計じかけの哀女神 (劇場t)
-  
   - そらのおとしものFinal 永遠の私の鳥籠 (劇場t) <span class="orangemarker">劣化</span>
 
 - サーバント×サービス (TV 1)
@@ -546,12 +479,12 @@ title: Anime
 - Caligula (TV 1)
 
 - 異世界はスマートフォンとともに。(TV 1)
-
-### 視聴中
+  
+  ### 視聴中
 
 - N/A
-
-#### Seasonal
+  
+  #### Seasonal
 
 - 小林さんちのメイドラゴンS
 
@@ -560,22 +493,22 @@ title: Anime
 - ピーチボーイリバーサイド
 
 - ひぐらし卒
-
-<!--途中までみた 鬼滅の刃 Re:ゼロから始める異世界生活 青春ブタ野郎はバニーガール先輩の夢を見ない 魔法少女育成計画 Serial Experiments Lain 理解不能なので精神が良いときに… 幼女戦記 瀬戸の花嫁 あそびあそばせ 恋する小惑星 -->
-
-## 実写
+  
+  <!--途中までみた 鬼滅の刃 Re:ゼロから始める異世界生活 青春ブタ野郎はバニーガール先輩の夢を見ない 魔法少女育成計画 Serial Experiments Lain 理解不能なので精神が良いときに… 幼女戦記 瀬戸の花嫁 あそびあそばせ 恋する小惑星 -->
+  
+  ## 実写
 
 - スノーデン
 
 - Snowpiercer(2013)
 
 - TENET
-
-## 統計
-
-<details><summary>見ないことを推奨</summary>
-※ガバガバなので多少のズレは許して,一応言っておきますがこういうのでマウント取るつもりはないです<br>
-単に統計が好きなだけなので<br>
-全119作品,うちTVアニメ157シーズン,219クール<br>
-OVA3作品2.5クール<br>
-劇場作品44</details>
+  
+  ## 統計
+  
+  <details><summary>見ないことを推奨</summary>
+  ※ガバガバなので多少のズレは許して,一応言っておきますがこういうのでマウント取るつもりはないです<br>
+  単に統計が好きなだけなので<br>
+  全119作品,うちTVアニメ157シーズン,219クール<br>
+  OVA3作品2.5クール<br>
+  劇場作品44</details>
